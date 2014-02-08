@@ -1,5 +1,3 @@
-# reveal-ck: Getting Started
-
 Slides for:
 
 <a href='https://vimeo.com/jedcn/reveal-ck-getting-started'>
